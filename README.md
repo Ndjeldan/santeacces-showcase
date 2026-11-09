@@ -8,7 +8,7 @@
 
 > ** Note sur le code source :** *Le code complet du backend (FastAPI) et du frontend est conservé dans un dépôt privé pour des raisons de sécurité des données de santé et de protection de la propriété intellectuelle. Ce dépôt public sert de vitrine technique (architecture, méthodologie, captures d'écran). Une démonstration complète peut être fournie sur demande lors d'un entretien.*
 
-## 📖 Executive Summary
+##  Executive Summary
 
 **SantéAccès Cameroun** est une plateforme de « Salle de crise » conçue pour les équipes humanitaires intervenant dans des zones d'urgence sanitaire.
 
@@ -66,4 +66,4 @@ graph TD
 **NDJEL DAN David Thierry**
 *Ingénieur Géospatial Full-Stack & Spécialiste Humanitaire Tech*
 
-[Portfolio](https://ton-portfolio.com) · [LinkedIn](https://www.linkedin.com/in/ton-profil)
+[Portfolio](https://ndjeldan.github.io) · [LinkedIn](https://www.linkedin.com/in/ndjel-dan-8682ba21a)
