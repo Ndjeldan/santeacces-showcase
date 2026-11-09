@@ -8,7 +8,7 @@
 
 > ** Note sur le code source :** *Le code complet du backend (FastAPI) et du frontend est conservé dans un dépôt privé pour des raisons de sécurité des données de santé et de protection de la propriété intellectuelle. Ce dépôt public sert de vitrine technique (architecture, méthodologie, captures d'écran). Une démonstration complète peut être fournie sur demande lors d'un entretien.*
 
-##  Executive Summary
+## 📖 Executive Summary
 
 **SantéAccès Cameroun** est une plateforme de « Salle de crise » conçue pour les équipes humanitaires intervenant dans des zones d'urgence sanitaire.
 
@@ -53,11 +53,15 @@ graph TD
 
 ##  Aperçu de l'application
 
-| Salle de crise (Carte) | Génération de PDF |
+| Salle de crise (Carte) | Panneau latéral |
 |:---:|:---:|
-| ![Salle de crise](docs/images/map-dark.png) | ![Plan de mission PDF](docs/images/pdf-fr.png) |
+| <img src="https://github.com/user-attachments/assets/c3e5b6e4-2de0-4450-8772-20ac3e19545b" alt="Salle de crise - carte sombre" width="100%"> | <img src="https://github.com/user-attachments/assets/a72fc64a-c46c-46d0-8232-c8d695ef87ca" alt="Panneau latéral" width="100%"> |
 
-## 👨‍💻 Auteur
+| Plan de mission PDF (FR) | Plan de mission PDF (EN) |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/fc7d6f76-5ce4-46e1-ab50-4679d59e855a" alt="Plan de mission PDF en français" width="100%"> | <img src="https://github.com/user-attachments/assets/2e5b6726-1972-4e0c-bd18-b845bfc3374e" alt="Mission plan PDF in English" width="100%"> |
+
+##  Auteur
 
 **NDJEL DAN David Thierry**
 *Ingénieur Géospatial Full-Stack & Spécialiste Humanitaire Tech*
